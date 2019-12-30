@@ -2,7 +2,7 @@
 
 stirng = "Hello World"
 
-print(stirng.replace(stirng[0:5],"HELLO"))
+print(stirng.replace(stirng[0:5],"MERHABA"))
 
 #Bir dizinin istenilen bir elemanını değiştirmek için ise aşağıdaki yöntem uygulanılabilir
 
